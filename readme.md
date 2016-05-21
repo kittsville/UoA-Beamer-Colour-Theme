@@ -24,3 +24,7 @@ Feel free to make any fixes and improvements you fancy. If you need any help wit
 ###License
 
 The theme is licensed under the LaTeX Project Public License and/or the General Public License v2 or later license. The license included with the repository is the GPL v2 license.
+
+### Disclaimer
+
+This is **in no way** affiliated with or condoned by the University of Aberdeen. I just made this to help standardise the inconsistent uni branding in beamer slides.
